@@ -33,7 +33,7 @@
     "moduleResolution": "node",
     "rootDirs": [],
     "typeRoots": [],
-    "types": [],
+    "types": ["node", "jest"],
     "allowSyntheticDefaultImports": true,
     "sourceRoot": "./src",
     "mapRoot": "./src",
@@ -44,3 +44,4 @@
     "src"
   ]
 }
+
